@@ -1,0 +1,9 @@
+{
+    "openai_key": "",
+    "modules": [
+        "auth/login",
+        "auth/splash",
+        "auth/profile",
+        "auth/home"
+    ]
+}
